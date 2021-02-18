@@ -15,7 +15,7 @@ pip install -r requirement.txt
 _Ejecutar script python_
 
 ```
-python scraping-karolg.py
+python main.py
 ```
 or windows
 
